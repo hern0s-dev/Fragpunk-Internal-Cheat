@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FragPunk", "FragPunk.vcxproj", "{5C926584-7413-48C7-96E9-E89C89E67D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Dump|x64 = Dump|x64
+		Dump|x86 = Dump|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Debug|x64.ActiveCfg = Debug|x64
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Debug|x64.Build.0 = Debug|x64
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Debug|x86.Build.0 = Debug|Win32
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Dump|x64.ActiveCfg = Dump|x64
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Dump|x64.Build.0 = Dump|x64
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Dump|x86.ActiveCfg = Dump|Win32
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Dump|x86.Build.0 = Dump|Win32
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Release|x64.ActiveCfg = Release|x64
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Release|x64.Build.0 = Release|x64
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Release|x86.ActiveCfg = Release|Win32
+		{5C926584-7413-48C7-96E9-E89C89E67D0F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1605E2-CFA7-4394-9E0E-C5D581E53294}
+	EndGlobalSection
+EndGlobal
